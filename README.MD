@@ -21,8 +21,8 @@ This project demonstrates a simple Node.js/Express web server with a CI/CD pipel
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/onukwilip/ci-cd-tutorial.git
-    cd ci-cd-tutorial
+    git clone https://github.com/Brave-CI-CD/ci-cd-handbook.git
+    cd ci-cd-handbook
     ```
 
 2. Install dependencies:
@@ -60,8 +60,8 @@ This project demonstrates a simple Node.js/Express web server with a CI/CD pipel
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/onukwilip/ci-cd-tutorial.git
-    cd ci-cd-tutorial
+    git clone https://github.com/Brave-CI-CD/ci-cd-handbook.git
+    cd ci-cd-handbook
     ```
 
 2. Install dependencies:
@@ -85,8 +85,8 @@ npm test
 ### Using Docker
 Build and run the Docker container:
 ```sh
-docker build -t ci-cd-tutorial .
-docker run -p 5001:5001 ci-cd-tutorial
+docker build -t ci-cd-handbook .
+docker run -p 5001:5001 ci-cd-handbook
 ```
 
 ## CI/CD
