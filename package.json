@@ -1,17 +1,17 @@
 {
-  "name": "ci-cd-tutorial",
+  "name": "ci-cd-handbook",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "jest",
     "start": "node index.js"
   },
-  "author": "Prince Onukwili",
+  "author": "Brave Jongen",
   "license": "ISC",
   "description": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/onukwilip/ci-cd-tutorial.git"
+    "url": "https://github.com/Brave-CI-CD/ci-cd-handbook.git"
   },
   "dependencies": {
     "cors": "^2.8.5",
